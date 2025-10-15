@@ -15,4 +15,4 @@ jobs:
         run: npm install jest
 
       - name: run test
-        run: npm run test
+        run: npm test
