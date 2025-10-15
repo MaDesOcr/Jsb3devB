@@ -1,4 +1,4 @@
-vname: launch-test
+name: launch-test
 
 on:
   push:
